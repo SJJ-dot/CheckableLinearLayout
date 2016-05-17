@@ -1,4 +1,4 @@
-package com.example.checkedablelinearlayout;
+package com.example.checkablelinearlayout;
 
 import android.R;
 import android.content.Context;

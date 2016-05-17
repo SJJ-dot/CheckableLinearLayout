@@ -1,4 +1,6 @@
-package com.example.checkedablelinearlayout;
+package com.example.checkablelinearlayout;
+
+import com.example.checkedablelinearlayout.R;
 
 import android.app.Activity;
 import android.os.Bundle;
